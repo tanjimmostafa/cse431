@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtube.com/playlist?list=PL1Cfx6TL6aB11BiRILb5bvvAv976DAXaA
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1UsXcn3JtHlwRxB39-xb5c75qShJPWruCZUh2ZMJaS64/edit?usp=sharing
 
 Project title:
 Optical Character Recognition of Bengali Handwritten Words
