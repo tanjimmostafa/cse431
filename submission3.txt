@@ -1,0 +1,30 @@
+Link to unlisted YouTube video:
+https://youtube.com/.....
+
+Two public links to the Concept Map (anyone on the internet can view without login):
+PDF: 
+https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+Native/original format: 
+https://lucid.app/lucidchart/56d86d17-71fc-4525-bb4a-d84112b04b05/edit?viewport_loc=253%2C-300%2C3174%2C1384%2C0_0&invitationId=inv_d5785487-0105-4b98-b9b3-c2cfc85154c6
+
+Name, Author, Edition, year, and publisher of the Book:
+Speech and Language Processing
+Jurafsky
+3rd edition
+2014
+Pearson
+
+Link to the book:
+https://web.stanford.edu/~jurafsky/slp3/
+
+Link to the book chapter:
+https://web.stanford.edu/~jurafsky/slp3/9.pdf
+
+Group Number:
+12
+
+Group Members:
+16201084 MD Tanjim Mostafa
+18101303 Afreen Rahman Tithi
+23141083 Rizvy Ahmed Kamal
+23141095 Dewan Golam Mortoza
