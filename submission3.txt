@@ -1,11 +1,11 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/YElNUYOX31w
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/tanjimmostafa/cse431/blob/main/Concept%20map-book%20review.pdf
 Native/original format: 
-https://lucid.app/lucidchart/56d86d17-71fc-4525-bb4a-d84112b04b05/edit?viewport_loc=253%2C-300%2C3174%2C1384%2C0_0&invitationId=inv_d5785487-0105-4b98-b9b3-c2cfc85154c6
+https://lucid.app/documents/view/f71003ec-fee8-4bec-897a-20165ef52d1a
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
