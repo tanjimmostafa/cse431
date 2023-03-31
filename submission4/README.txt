@@ -2,7 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/8839262716wtxfxkfhmwdp
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/A4APyMNXbWA
 
 Conference submitted paper / paper submission / login Link:
 
@@ -11,7 +11,7 @@ Paper title:
 Optical Character Recognition of Bengali Handwritten Words
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+
 
 Paper submission date (to workshop/conference):
 
